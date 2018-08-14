@@ -1,0 +1,2 @@
+# snapshot
+AWS_project_snapshot_handling
